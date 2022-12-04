@@ -1,1 +1,2 @@
-JSP와 Oracle을 이용한 간단한 게시판 만들기
+JSP와 오라클을 활용한 배너 만들기
+webapp -> META-INF > context.mxl > Url IP주소 변경
